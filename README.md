@@ -1,2 +1,2 @@
 # Demo Read-Me
-A description
+A Demo GitHub repo for the Odin Project!
